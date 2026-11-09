@@ -1,0 +1,9 @@
+DATASET SOURCE CONFIRMATION
+Project: PRDA-01 – Startup Profit Analysis
+
+Dataset Source: Database
+
+The dataset was retrieved from the database provided by DataMites using SQL queries. The extracted dataset contains 50 observations and the following five fields: RD_Spend, Administration, Marketing_Spend, State, and Profit. The data was exported to CSV and then used for regression analysis in Excel and visualization in Power BI.
+
+Workflow:
+DataMites Database → SQL Query → CSV Export → Excel Regression Analysis → Power BI Dashboard
